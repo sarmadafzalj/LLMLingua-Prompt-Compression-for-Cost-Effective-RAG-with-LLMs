@@ -1,0 +1,2 @@
+# LLMLingua---Prompt-Compression-for-Cost-Effective-RAG-with-LLMs
+This project focuses on addressing the limitations and challenges associated with using large generative language models like GPT-3.5 and GPT-4. LLM Lingua, a package designed for efficient language model compression., its approach aims to mitigate token limitations and enhance contextual understanding in language model applications.
