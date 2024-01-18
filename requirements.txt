@@ -1,0 +1,9 @@
+llmlingua==0.1.5
+streamlit==1.28.2
+langchain==0.0.336
+openai==1.2.0
+tiktoken==0.4.0
+PyPDF2==3.0.1
+accelerate==0.26.1
+optimum==1.16.1
+auto-gptq
